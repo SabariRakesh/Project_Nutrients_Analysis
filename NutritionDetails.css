@@ -1,0 +1,25 @@
+.nutrition-details {
+    margin-top: 30px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  .nutrition-details h3 {
+    margin-bottom: 15px;
+    font-size: 22px;
+    color: #e75a0b;
+  }
+  
+  .nutrition-details ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .nutrition-details li {
+    padding: 8px 0;
+    font-size: 16px;
+    border-bottom: 1px solid #eee;
+  }
+  
